@@ -11,7 +11,7 @@ Made by [Abbas Bhanpura wala](https://abbas-bhanpura-wala.vercel.app/)
 )
 
 endpoint = "2520f246-749c-468d-b715-747e436afdf2"
-
+application_tk = "AstraCS:zPlTkOcRoljPUdOlbZAWskwi:2bf1ee1e6d548c12cfcc7b8cbb0c1ed90c7cb8b1de7824293d4b541b4b1c645e"
 output_type = "chat"
 input_type = "chat"
 
@@ -24,7 +24,7 @@ if st.button("Get Analytics"):
             endpoint=endpoint,
             output_type=output_type,
             input_type=input_type,
-
+            application_token=application_tk,
         )
 
         st.subheader("Response")
