@@ -25,10 +25,13 @@ To set up EngageIQ locally, follow these steps:
    ```bash
    git clone https://github.com/Abbas-Dev-786/super-mind.git
 
+   ```
+
 2. **Run the application**:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
+   ```
 
 ## Usage
 
