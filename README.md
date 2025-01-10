@@ -56,8 +56,6 @@ To develop a basic analytics module leveraging Langflow and DataStax Astra DB fo
 
 ---
 
----
-
 ## 🎧 How to Run Locally
 
 ### ⚡ Prerequisites
